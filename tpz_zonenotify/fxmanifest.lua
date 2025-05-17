@@ -4,6 +4,7 @@ game 'rdr3'
 
 author 'VORP @Bytesized'
 description 'TPZ-CORE Zone Notify'
+version '1.0.0'
 
 shared_scripts { 'config.lua', 'locales.lua' }
 client_scripts { '@tpz_core/client/tp-client_dataview.lua', 'client/*.lua' }
