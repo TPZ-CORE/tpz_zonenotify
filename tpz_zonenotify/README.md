@@ -44,3 +44,7 @@ All configurations available in `config.lua`
 - Config.ShowTemperature = To show the temperature in the UI (Config.TemperatureColdDegree/Config.TemperatureHotColor/Config.TemperatureColdColor)
 - Config.ShowWind = To show the wind in the UI (Config.WindColor)
 - Config.OutOfTownNotification = When you check the zone, if you are not in a zone, you will see an “Out of Town” warning
+
+## CREDITS
+
+- Credits to VORP-CORE for sharing this script with its contributors, all credits to them. The official vorp_zonenotify can be found here: https://github.com/VORPCORE/vorp_zonenotify
